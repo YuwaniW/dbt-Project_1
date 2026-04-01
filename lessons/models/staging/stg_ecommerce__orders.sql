@@ -20,3 +20,4 @@ SELECT
 	num_of_item AS num_items_ordered
 
 FROM source
+
